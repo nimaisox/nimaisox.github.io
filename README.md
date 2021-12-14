@@ -1,4 +1,4 @@
-# nimaisox.github.io
+# Official My Website
 
 ### Hi I'm Nimaiso 👋
 
