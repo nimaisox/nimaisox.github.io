@@ -80,7 +80,6 @@ h1::after {
   content: "";
   width: 80px;
   display: block;
-  background: #fff;
   height: 10px;
   margin: 30px auto;
   line-height: 1.1;
@@ -165,5 +164,39 @@ h1::after {
 
 .projects{
   text-align: center;
-  color: white;
+  background-color: #0000001a;
+  font-weight: bold;
+  margin-top: 10px;
+  padding-top: 10px;
+}
+
+* {
+  box-sizing: border-box;
+}
+ 
+.row {
+  display: flex;
+}
+ 
+/* Create three equal columns that sits next to each other */
+.column {
+  flex: 33.33%;
+  padding: 5px;
+  font-weight: bold;
+}
+
+.end{
+  color:red; background-color: #5511; text-align: center; font-weight: bold;
+}
+
+.iao{
+  background-color: rgba(0, 0, 0, 0.192);
+  /* margin-left: 40%; margin-right: 40%; */
+  border-radius: 5%;
+  padding-top: 30px;
+  text-align: center;
+  color: blue;
+  font-weight: bold;
+  font-family: aviny;
+  font-size: 35px;
 }
