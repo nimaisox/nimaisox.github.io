@@ -1,4 +1,4 @@
-msg = "Nima Develoepr"; +  msg;pos = 0;
+msg = "Official Nimaiso Website Developer"; +  msg;pos = 0;
 msg = msg+' | ';
 function scrollMSG() {
 document.title = msg.substring(pos, msg.length) + msg.substring(0, pos);
