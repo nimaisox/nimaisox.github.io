@@ -87,13 +87,13 @@ async function getInputValue(){
   else if(value === "about me"){
     trueValue(value);
     createText("Hi My Name Is Nima Iso ;)")
-    createText("Im 16 Y.O. I study Humanity Grade 12. I Love Coding My Favorite Coding Language Is Java Script. Advanced Discord Configure Telegram And Discord Bot Developer.")
+    createText("Im 17 Y.O. I study Humanity Grade 12. I Love Coding My Favorite Coding Language Is Java Script. Advanced Discord Configure Telegram And Discord Bot Developer.")
   }
   else if(value === "social -a"){
     trueValue(value);
     createText("<a href='https://github.com/nimaisox' target='_blank'><i class='fab fa-github white'></i> github.com/nimaisox</a>")
     createText("<a href='https://dsc.bio/nimaiso' target='_blank'><i class='fab fa-discord white'></i> dsc.bio/nimaiso</a>")
-    createText("<a href='https://instagram.com/nimaiso' target='_blank'><i class='fab fa-instagram white'></i> instagram.com/nimaiso</a>")
+    createText("<a href='https://instagram.com' target='_blank'><i class='fab fa-instagram white'></i> instagram.com/nimaiso</a>")
   }
   else if(value === "social"){
     trueValue(value);
