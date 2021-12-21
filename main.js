@@ -94,6 +94,9 @@ async function getInputValue(){
     createText("<a href='https://github.com/nimaisox' target='_blank'><i class='fab fa-github white'></i> github.com/nimaisox</a>")
     createText("<a href='https://dsc.bio/nimaiso' target='_blank'><i class='fab fa-discord white'></i> dsc.bio/nimaiso</a>")
     createText("<a href='https://instagram.com/nimaiso' target='_blank'><i class='fab fa-instagram white'></i> instagram.com/nimaiso</a>")
+    createText("<a href='https://www.youtube.com/channel/UC4sTRS7lvVhjsxRTEuPtRrA' target='_blank'><i class='fab fa-youtube white'></i> youtube/nimaiso</a>")
+    createText("<a href='https://open.spotify.com/user/ucnqfi5pthux1nn3bepiox378?si=ac5121e342bb4d5b' target='_blank'><i class='fab fa-spotify white'></i> spotify.com/nimaiso</a>")
+    createText("<a href='https://steamcommunity.com/profiles/76561199033568680' target='_blank'><i class='fab fa-steam white'></i> steamcommunity.com/nimaiso</a>")
   }
   else if(value === "social"){
     trueValue(value);
