@@ -87,7 +87,7 @@ async function getInputValue(){
   else if(value === "about me"){
     trueValue(value);
     createText("Hi My Name Is Nima Iso ;)")
-    createText("Im 17 Y.O. I study Humanity Grade 12. I Love Coding My Favorite Coding Language Is Java Script. Advanced Discord Configure Telegram And Discord Bot Developer.")
+    createText("Im 17 Years Old I study Computer Grade 12. I Love Coding My Favorite Coding Language Is Java Script & C++ & HTML & CSS & C# & PHP & NODEJS. Advanced Discord Configure Telegram And Discord Bot Developer.")
   }
   else if(value === "social -a"){
     trueValue(value);
